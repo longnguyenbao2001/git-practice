@@ -1,0 +1,7 @@
+diff --git a/first.txt b/first.txt
+index 8b47b8e..89cc7a3 100644
+--- a/first.txt
++++ b/first.txt
+@@ -1 +1 @@
+-Created by B
++Updated by B
